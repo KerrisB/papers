@@ -3,3 +3,6 @@ Kerris Boulton
 
 Title:
 Git Hub Test
+
+Intro:
+This is a text journal to show how git works and to show numerous commands that can be completed using the git software.
