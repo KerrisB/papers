@@ -15,3 +15,6 @@ K.boulton 2nd line added etc etc
 
 New section for new author:
 Adding things to other branches so you dont have to change working master copy until finalised. 
+
+methodology:
+amending changes exercise. asdfghj hjkklloin jb iubib,m
