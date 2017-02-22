@@ -1,8 +1,9 @@
 Authors:
 Kerris Boulton
+New Author
 
 Title:
-Git Hub Test
+Git Hub Test + Test 2
 
 Intro:
 This is a text journal to show how git works and to show numerous commands that can be completed using the git software.
