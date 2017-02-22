@@ -1,6 +1,8 @@
 Authors:
-New Author
-kerris boulton
+
+Kerris Boulton, Uniersity of manchester
+New Author, somewhere else
+
 
 Title:
 Git Hub Test + Test 2 + conflict
