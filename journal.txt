@@ -10,4 +10,7 @@ This is a text journal to show how git works and to show numerous commands that 
 
 Reference now added 
 
-K.boulton 2nd line added etc etc 
+K.boulton 2nd line added etc etc
+
+New section for new author:
+Adding things to other branches so you dont have to change working master copy until finalised. 
