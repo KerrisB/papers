@@ -19,5 +19,9 @@ Adding things to other branches so you dont have to change working master copy u
 methodology:
 amending changes exercise. asdfghj hjkklloin jb iubib,m
 
-conclusion: 
-in conclusion
+Results:
+As a result of this ,.....
+
+conclusion
+
+kept both and removed conflicts
