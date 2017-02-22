@@ -3,7 +3,7 @@ Kerris Boulton
 New Author
 
 Title:
-Git Hub Test + Test 2
+Git Hub Test + Test 2 + conflict
 
 Intro:
 This is a text journal to show how git works and to show numerous commands that can be completed using the git software.
